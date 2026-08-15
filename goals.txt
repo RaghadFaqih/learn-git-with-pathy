@@ -1,0 +1,6 @@
+I learned:
+How to use Git and GitHub, make repositories
+The difrences between Git and GitHub
+The difrences between files and Folders
+The fundimentals of Command Line and how to use it
+Some commands help me in VS Code
