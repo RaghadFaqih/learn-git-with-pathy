@@ -4,3 +4,6 @@ The difrences between Git and GitHub
 The difrences between files and Folders
 The fundimentals of Command Line and how to use it
 Some commands help me in VS Code
+
+Updating and organizing my GitHub profil
+Start to make my own projects
